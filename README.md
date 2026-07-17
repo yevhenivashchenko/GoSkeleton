@@ -9,7 +9,7 @@ This project is designed as an ideal starting point (a "skeleton") that eliminat
 * **Minimal Dependencies:** Built primarily using the Go standard library and proven tools.
 * **Ready-to-use Config:** Environment variable support via `.env`.
 * **Logging:** Built-in basic request and error logging.
-* **Docker Ready:** Pre-configured `Dockerfile` for rapid deployment.
+* **Docker Ready:** Pre-configured `Dockerfile` for rapid deployment..
 
 ## 🛠 Tech Stack
 
