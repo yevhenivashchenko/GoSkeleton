@@ -1,0 +1,15 @@
+# Handle line endings automatically for services
+# ensuring consistent line endings across different operating systems.
+* text=auto
+
+# Explicitly set Go files to use LF (Line Feed)
+*.go text eol=lf
+
+# Explicitly set shell scripts to use LF
+*.sh text eol=lf
+
+# Ensure Dockerfile uses LF
+Dockerfile text eol=lf
+
+# Maintain consistency for documentation files
+*.md text
