@@ -30,4 +30,4 @@ The project follows a directory structure that maps directly to its layered desi
 ## Development & Deployment
 
 -   **Environment:** The use of `godotenv` ensures that developers can manage local settings without committing secrets to version control.
--   **Containerization:** The included `Dockerfile` provides a standardized build environment, ensuring consistency between development and production deployments.
+-   **Containerization:** The included `Dockerfile` provides a standardized build environment, ensuring consistency between development and production deployments..
