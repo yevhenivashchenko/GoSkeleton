@@ -1,6 +1,6 @@
 # Architecture Overview: GoSkeleton
 
-GoSkeleton is designed to be a lightweight, modular, and production-ready boilerplate for web services in Go. The architecture prioritizes a clear separation of concerns to ensure maintainability and scalability as your business logic grows....
+GoSkeleton is designed to be a lightweight, modular, and production-ready boilerplate for web services in Go. The architecture prioritizes a clear separation of concerns to ensure maintainability and scalability as your business logic grows.....
 
 ## Core Design Principles
 
